@@ -32,7 +32,7 @@ Me caracterizo por mi interés en el aprendizaje continuo, la resolución de pro
 - Manejo de Git, GitHub, Visual Studio Code y Postman.
 - Formación complementaria en desarrollo web y ciencia de datos.
 
-## Tecnologías y herramientas
+## Tecnologías y herramientas en proceso
 
 ### Lenguajes de programación
 
