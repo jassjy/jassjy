@@ -73,24 +73,10 @@ Me caracterizo por mi interés en el aprendizaje continuo, la resolución de pro
 
 ## Proyectos destacados
 
-### 01. Huellitas Saludables
-
-**Sistema web para la gestión integral de servicios para mascotas.**
-
-Proyecto enfocado en la gestión de servicios veterinarios y de cuidado de mascotas, con el propósito de facilitar la organización de información y la administración de servicios.
-
-**Áreas del proyecto:**
-- Gestión de información relacionada con propietarios y mascotas.
-- Organización de servicios veterinarios y citas.
-- Gestión de información clínica y servicios de cuidado.
-
-**Tecnologías previstas:** JavaScript, React, Node.js, API REST y PostgreSQL.
-
-[Ver repositorio](https://github.com/jassjy/HUELLITAS_SALUDABLES_PROYECTO)
 
 ---
 
-### 02. Quality Orders — Sistema de gestión de pedidos
+### 01. Quality Orders — Sistema de gestión de pedidos
 
 Proyecto académico orientado a la gestión de pedidos y al desarrollo de una solución de software para organizar información relacionada con este proceso.
 
@@ -103,7 +89,7 @@ Proyecto académico orientado a la gestión de pedidos y al desarrollo de una so
 
 ---
 
-### 03. Proyecto Clientes
+### 02. Proyecto Clientes
 
 Proyecto de desarrollo enfocado en la gestión de información de clientes y la práctica de conceptos de programación y administración de datos.
 
@@ -116,7 +102,7 @@ Proyecto de desarrollo enfocado en la gestión de información de clientes y la 
 
 ---
 
-### 04. Proyecto CRUD 80 — API REST
+### 03. Proyecto CRUD 80 — API REST
 
 Proyecto práctico de desarrollo backend orientado a la gestión de productos mediante operaciones CRUD.
 
